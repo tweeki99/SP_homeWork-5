@@ -1,0 +1,7 @@
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\bin\Debug\SynchronizationHw.exe.config
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\bin\Debug\SynchronizationHw.exe
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\bin\Debug\SynchronizationHw.pdb
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\obj\Debug\SynchronizationHw.csprojAssemblyReference.cache
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\obj\Debug\SynchronizationHw.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\obj\Debug\SynchronizationHw.exe
+C:\Users\шипиловд\source\repos\SynchronizationHw\SynchronizationHw\obj\Debug\SynchronizationHw.pdb
